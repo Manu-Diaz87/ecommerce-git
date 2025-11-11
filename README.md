@@ -78,6 +78,7 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 - git push -u origin main: Sube/envía los cambios commiteados desde la rama local donde estoy posicionado (ej: main) al repo remoto a la rama especificada.
 
+- git pull origin main: Este comando me permite actualizar el repo local con la rama especificada en el repo Remoto. Mantiene los cambios realizados en el repo local.
 
 
 ## Ramas - Branchs - Github
@@ -103,6 +104,10 @@ Tenemos diferentes maneras de poder acceder a un repositorio ya sea publico o pr
 
 
 
+## Pull Requests (PR)
+Es una funcionalidad de Github, que nos permite realizar una solicitud para incoporar los cambios de una rama secundaria sobre una rama principal (ej: main).
+
+Esto permite que otros colaboradores pueden chequear nuestros cambios y avances, y cuando esté todo funcionando correctamente, el admin decidirá si se fusionan los cambios sobre la rama principal.
 
 
 
