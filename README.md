@@ -80,6 +80,19 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 
 
+## Ramas - Branchs - Github
+
+
+- git branch: nos muestra todas las ramas del repositorio local
+
+- git branch [nombre_rama]: Crea una nueva rama.
+
+- git switch [nombre_rama]: nos permite movernos hacia la rama especificada. * Primero es recomendable guardar todos los cambios realizados en la rama donde estamos posicionados actualmente
+
+
+
+
+
 
 
 
