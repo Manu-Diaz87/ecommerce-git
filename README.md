@@ -97,6 +97,9 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 
 
+### Descargar Repositorio remoto.
+
+Tenemos diferentes maneras de poder acceder a un repositorio ya sea publico o privado (con invitación). La manera más recomendable es usar el comando git clone [url_del_repo]. Estos nos trae todo el historial de los commits y su configuración de vinculación remota. En cambio, si lo descargamos de forma manual, no tenemos el historial de commits de forma inicial, y además tenemos que configurar la conexión remota.
 
 
 
