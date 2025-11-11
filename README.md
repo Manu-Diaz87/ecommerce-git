@@ -76,7 +76,7 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 - git remote --v: Nos sirve para verificar si el vinculo/conexión se realizo correctamente.
 
-- git push -u origin main: Sube/envía los cambios commiteados desde la rama local (main) al repo remoto.
+- git push -u origin main: Sube/envía los cambios commiteados desde la rama local donde estoy posicionado (ej: main) al repo remoto a la rama especificada.
 
 
 
