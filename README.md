@@ -87,7 +87,11 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 - git branch [nombre_rama]: Crea una nueva rama.
 
-- git switch [nombre_rama]: nos permite movernos hacia la rama especificada. * Primero es recomendable guardar todos los cambios realizados en la rama donde estamos posicionados actualmente
+- git switch [nombre_rama]: Nos permite movernos hacia la rama especificada. * Primero es recomendable guardar todos los cambios realizados en la rama donde estamos posicionados actualmente
+
+- git branch -D [nombre_rama]: Elimina la rama especificada.
+
+- git branch -M [nombre_rama]: Renombrar la rama sobre la cual estoy posicionado.
 
 
 
