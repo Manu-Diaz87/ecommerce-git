@@ -93,6 +93,8 @@ Una vez que ya generamos alguna confirmación (commit) y tenemos ya el historial
 
 - git branch -M [nombre_rama]: Renombrar la rama sobre la cual estoy posicionado.
 
+- git merge [nombre_rama]: Fusiona la rama especificada con la rama donde estamos posicionados actualmente.
+
 
 
 
